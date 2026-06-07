@@ -26,7 +26,7 @@ An advanced, interactive Power BI dashboard analyzing historical and current foo
 * **Key DAX Measure:**
 ```dax
   Win_Rate = DIVIDE(SUM('elo_ratings_wc2026'[wins]), SUM('elo_ratings_wc2026'[matches_total]), 0)
-  ---
+  ```
   📸 Dashboard Preview
 <img width="1273" height="712" alt="Global Overview WC (1990-2026)" src="https://github.com/user-attachments/assets/94e43268-74b5-4f46-93c8-fb5866e1ecd9" />
 
