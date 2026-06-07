@@ -28,7 +28,8 @@ An advanced, interactive Power BI dashboard analyzing historical and current foo
   Win_Rate = DIVIDE(SUM('elo_ratings_wc2026'[wins]), SUM('elo_ratings_wc2026'[matches_total]), 0)
   ```
   📸 Dashboard Preview
-<img width="1273" height="712" alt="Global Overview WC (1990-2026)" src="https://github.com/user-attachments/assets/94e43268-74b5-4f46-93c8-fb5866e1ecd9" />
+<img width="1277" height="704" alt="WC - Global Overview" src="https://github.com/user-attachments/assets/727af6a3-9c7b-4735-9525-3ab1b6a7c018" />
+
 
 More ... --> Screenshots folder
 
